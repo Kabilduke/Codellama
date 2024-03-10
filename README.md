@@ -1,6 +1,6 @@
 # CodeLlama
 
-![CodeLlama Logo](insert_logo_url_here)
+![CodeLlama Logo](https://media.licdn.com/dms/image/D4E22AQELB-ZlVMnbOg/feedshare-shrink_800/0/1706547790276?e=2147483647&v=beta&t=RyW32QaOKGNNVLQHkiGriFx8qaqrWPZ8hCK_X6fv1uw)
 
 CodeLlama is a model named Azuna that leverages the power of Gradio, Langchain, and Ollama to provide cutting-edge coding assistance.
 
